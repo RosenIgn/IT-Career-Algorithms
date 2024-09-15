@@ -1,0 +1,6 @@
+C:\Users\Rosen\Desktop\Repos\IT-Career-Algorithms\CoinCalculator.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_CoinCalculator.Tests
+C:\Users\Rosen\Desktop\Repos\IT-Career-Algorithms\CoinCalculator.Tests\obj\Debug\net8.0\CoinCalculator.Tests.csproj.AssemblyReference.cache
+C:\Users\Rosen\Desktop\Repos\IT-Career-Algorithms\CoinCalculator.Tests\obj\Debug\net8.0\CoinCalculator.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosen\Desktop\Repos\IT-Career-Algorithms\CoinCalculator.Tests\obj\Debug\net8.0\CoinCalculator.Tests.AssemblyInfoInputs.cache
+C:\Users\Rosen\Desktop\Repos\IT-Career-Algorithms\CoinCalculator.Tests\obj\Debug\net8.0\CoinCalculator.Tests.AssemblyInfo.cs
+C:\Users\Rosen\Desktop\Repos\IT-Career-Algorithms\CoinCalculator.Tests\obj\Debug\net8.0\CoinCalculator.Tests.csproj.CoreCompileInputs.cache
